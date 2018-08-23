@@ -1,0 +1,14 @@
+*{
+  margin: 0px;
+  padding: 0px;
+}
+.el-message-box{
+  width: 580px!important;
+}
+.el-message-box .font{
+  display: inline-block;
+  min-width: 80px;
+}
+.nei{
+  cursor: pointer;
+}
